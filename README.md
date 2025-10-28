@@ -121,6 +121,7 @@ audio.pause();
 │           └── textures/
 
 ## OUTPUT:
+![Image Tracking exp 4](https://github.com/user-attachments/assets/aa95a7db-4ca9-464c-a926-7f77777ce14d)
 
 ## RESULT:
 The experiment successfully demonstrates marker-based AR using MindAR and Three.js. The drummer raccoon model was successfully rendered and animated on the detected marker, and synchronized background audio was played, validating effective marker detection and real-time 3D rendering in a web-based AR environment.
